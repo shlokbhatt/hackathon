@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4151dfb2-3e40-4b81-91ab-6f27d569b9a9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/hackathon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FizzBuzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Longhorns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Write a program that takes a list of integers as input and returns a new list with only the prime numbers..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c_you_later-gastc-problem1 - 2020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farmer_carter_peanuts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_word_countv2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_word_occur.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/floatavgarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frequency_nums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gastc-20-problem1-pifriendly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gastc-2020-problem3-pandigital.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gastc-problem4-everyonecounts-2020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guessthenumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/honor_algorithm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input_vowel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/longest_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lorem_ipsum.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maxandminarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num_even.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/palindrome_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/partialseries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/remove_even_nums_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reverse_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reversestring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sentencecharacterfrequency.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sum_diff_prod_quo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twoarrayaddition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twoarrayadditionv2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vowel_start.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2P9guSdaXLiZyw8dOn9qiNXLuRB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4151dfb2-3e40-4b81-91ab-6f27d569b9a9" name="Changes" comment="" />
+      <created>1682874933578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682874933578</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
